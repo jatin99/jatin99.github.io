@@ -23,7 +23,8 @@
 </p>
   
 ## 🥇 Certifications
-    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/istqb.png" alt="Jatin | Whatsapp" width="21px"/>
+
+<img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/istqb.png" alt="Jatin | ISTQB" width="21px"/>
 
 
 <p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>

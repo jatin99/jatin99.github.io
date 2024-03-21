@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="/workspaces/jatin99.github.io/images/banner.png" alt="my banner"></a>
+  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/jatin99/jatin99.github.io/blob/main/images/banner.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">

@@ -14,7 +14,7 @@
   <a href="https://www.linkedin.com/in/jatinshharma//">
     <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
   </a>
-  <a href="https://instagram.com/techwithJatin">
+  <a href="https://instagram.com/tech_with_jatin">
     <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
   </a>
   <a href="https://wa.link/8nquvx">

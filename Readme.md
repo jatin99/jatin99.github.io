@@ -52,6 +52,6 @@ Led the testing efforts for a large e-commerce website, conducting end-to-end te
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at [your@email.com](mailto:your@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white "C#")
+![Java](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=java&logoColor=white "Java")
 
 Thank you for visiting my portfolio! I look forward to discussing how I can contribute to your projects and initiatives.

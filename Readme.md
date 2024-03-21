@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer"><img src="https://github.com/jatin99/jatin99.github.io/blob/main/images/banner.png" alt="my banner"></a>
+  <a href="https://www.linkedin.com/in/jatinshharma/" target="_blank" rel="noreferrer"><img src="https://github.com/jatin99/jatin99.github.io/blob/main/images/banner.png" alt="my banner"></a>
 </p>
 
 <h3 align="center">
@@ -10,7 +10,7 @@ Hi there, I'm <a href="https://www.linkedin.com/in/jatinshharma/" target="_blank
 I'm a SDET Professional 💻, Decent Photographer 📸 and Passitonate Garderning 
 </h2> 
 
-I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
+I love 
 
 ### 🤝 Connect with me:
 

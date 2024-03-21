@@ -22,6 +22,8 @@
   </a>
 </p>
   
+## 🥇 Certifications
+    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/istqb.png" alt="Jatin | Whatsapp" width="21px"/>
 
 
 <p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>
@@ -30,8 +32,8 @@
 
 - Microservices Testing Automation Framework
 - Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically. 
-
-
+- Postman Newman Automated Test 
+    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/postmanproject.png" alt="Jatin | Whatsapp" width="500px"/>
 ## 🌱 I'm currently learning
 
 - I am currently exploring the worlds of Cloud especially AWS Services that can be used to improve the Automation Testing Process for products. 
@@ -50,6 +52,7 @@ coverage
 -Engineered automation scripts using Selenium and Java to increase testing
 efficiency, resulting in a 40% reduction in manual testing time and a 25% increase
 in test coverage
+
 
 ## 💻 Framework WalkThrough
 [![Test Automation Framework Video](https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/Demo.png)](https://youtu.be/BCaqX6XCKhw)
@@ -83,8 +86,24 @@ in test coverage
 ## 📈 GitHub Stats 
 
 [![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=jatin99)](https://github.com/jatin99)
+
+
 ## Contact
 
 <p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:jatinvsharma@gmail.com">jatinvsharma@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/jatinshharma//">
+    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/linkedin.svg" alt="Jatin Shharma | LinkedIn" width="21px"/>
+  </a>
+  <a href="https://instagram.com/tech_with_jatin">
+    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/instagram.svg" alt="Jatin | Instagram" width="21px"/>
+  </a>
+  <a href="https://wa.link/8nquvx">
+    <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/whatsapp.png" alt="Jatin | Whatsapp" width="21px"/>
+  </a>
+</p>
+  
+
 
 <p align="center">Thank you for visiting my portfolio! I look forward to discussing how I can contribute to your projects and initiatives.</p>

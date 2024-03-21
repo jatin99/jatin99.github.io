@@ -22,18 +22,28 @@
   </a>
 </p>
   
-</br>
+
 
 <p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>
 
 ## 🔭 I'm currently working on
 
-- Poke-finder project
-- Anime project
+- Microservices Testing Automation Framework
+- Working on Creating a Single Automation Framework that will be able to run UI/API/Mobile Automated Tests Automatically. 
+- 
 
 ## 🌱 I'm currently learning
 
-- 
+- I am currently exploring the worlds of Cloud especially AWS Services that can be used to improve the Automation Testing Process for products. 
+
+## 💻 Framework WalkThrough
+[![Test Automation Framework Video](https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/Demo.png)](https://youtu.be/BCaqX6XCKhw)
+
+## 💻 My Projects 
+[Automated Regression Testing Framework Java](https://github.com/jatin99/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Java.
+
+[Automated Regression Testing Framework Python](https://github.com/jatin99/): A comprehensive automated regression testing framework developed using Selenium WebDriver and Python.
+
 
 ## 💼 Technical Skills
 
@@ -52,8 +62,11 @@
   <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab">
 </p>
 
+## 📈 GitHub Stats 
+
+[![Jatin's github stats](https://github-readme-stats.vercel.app/api?username=jatin99)](https://github.com/jatin99)
 ## Contact
 
-<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:your@email.com">your@email.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
+<p align="center">I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at <a href="mailto:jatinvsharma@gmail.com">jatinvsharma@gmail.com</a> or connect with me on <a href="https://www.linkedin.com/in/yourprofile">LinkedIn</a>.</p>
 
 <p align="center">Thank you for visiting my portfolio! I look forward to discussing how I can contribute to your projects and initiatives.</p>

@@ -1,4 +1,4 @@
-![banner](<img src="https://www.canva.com/design/DAGAHrOUdYM/-azpM69Jci0W5Ps4tWgswg/view?utm_content=DAGAHrOUdYM&utm_campaign=designshare&utm_medium=link&utm_source=editor" alt=”my banner”>
+![banner](<img src="https://www.canva.com/design/DAGAHieI_54/neTibbAWWWtbRqfJ41kX5w/view" alt=”my banner”>
 # SDET Engineer Portfolio
 
 Welcome to my portfolio! As a Software Development Engineer in Test (SDET), I'm passionate about ensuring the quality, reliability, and efficiency of software through automated testing and robust test frameworks. Below, you'll find an overview of my skills, projects, experience, and a video showcasing some of my work.

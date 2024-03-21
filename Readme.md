@@ -25,9 +25,9 @@
 ## 🥇 Certifications
 <p align="center">
   <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/ISTQB.png" alt="Jatin | ISTQB" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/aws-cp.png" alt="Jatin | ISTQB" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/aws-dev.png" alt="Jatin | ISTQB" width="100 px"/>
-  <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/aws-sa.png" alt="Jatin | ISTQB" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/aws-cp.png" alt="Jatin | AWS-CP" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/aws-dev.png" alt="Jatin | AWS-DEV" width="100 px"/>
+  <img src="https://raw.githubusercontent.com/jatin99/jatin99.github.io/main/images/aws-sa.png" alt="Jatin | AWS-SA" width="100 px"/>
 </p>
 
 <p align="center">💬 If you have any questions or feedback, please don't hesitate to reach out to me!</p>

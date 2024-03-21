@@ -44,7 +44,7 @@ Led the testing efforts for a large e-commerce website, conducting end-to-end te
 
 ## Video Showcase
 
-[![Video Showcase](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID_HERE)
+[![Video Showcase](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=ROhmalidMfU)
 
 ## Contact
 

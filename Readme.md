@@ -1,6 +1,7 @@
-![banner](<img src="https://www.canva.com/design/DAGAHieI_54/neTibbAWWWtbRqfJ41kX5w/view" alt=”my banner”>
 # SDET Engineer Portfolio
-https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
+
+![banner](https://www.canva.com/design/DAGAHieI_54/neTibbAWWWtbRqfJ41kX5w/view "my banner")
+
 Welcome to my portfolio! As a Software Development Engineer in Test (SDET), I'm passionate about ensuring the quality, reliability, and efficiency of software through automated testing and robust test frameworks. Below, you'll find an overview of my skills, projects, experience, and a video showcasing some of my work.
 
 ## About Me
@@ -50,5 +51,7 @@ Led the testing efforts for a large e-commerce website, conducting end-to-end te
 ## Contact
 
 I'm always open to new opportunities and collaborations. Feel free to reach out to me via email at [your@email.com](mailto:your@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/yourprofile).
+
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white "C#")
 
 Thank you for visiting my portfolio! I look forward to discussing how I can contribute to your projects and initiatives.
